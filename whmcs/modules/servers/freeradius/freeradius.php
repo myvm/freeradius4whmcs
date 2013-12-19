@@ -1,5 +1,5 @@
 <?php
-# Author: zhfall@gmail.com	Date: 2012-08-6
+# Author: zhfall@gmail.com	Date: 2013-12-20
 # Copyright: 2011-2013
 
 function freeradius_ConfigOptions() {
