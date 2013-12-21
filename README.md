@@ -12,4 +12,4 @@ http://whmcs.myvm.net/cart.php?a=add&pid=1&carttpl=cart
 
 And find related information at (in Chinese):
 
-http://www.myvm.net/?tag=freeradius
+http://www.myvm.net/?s=Freeradius
